@@ -1,6 +1,6 @@
 # Reconhecimento de Ação em Vídeo
 
-Projeto em Python fazendo uso de OpenCV e MediaPipe que detecta certos tipos de movimentos.
+Projeto em Python fazendo uso de [OpenCV](https://opencv.org/) e [MediaPipe](https://google.github.io/mediapipe/) que detecta certos tipos de movimentos.
 
 ## :hammer: Tecnologias utilizadas
 As seguinte tecnologias são utilizadas neste projeto:
