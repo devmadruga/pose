@@ -1,7 +1,6 @@
 # Reconhecimento de Ação em Vídeo
 
-## :open_book: Índice
-
+Projeto em Python fazendo uso de OpenCV e MediaPipe que detecta certos tipos de movimentos.
 
 ## :hammer: Tecnologias utilizadas
 As seguinte tecnologias são utilizadas neste projeto:
@@ -63,7 +62,7 @@ e
 5. > pip install mediapipe
 
 
-## :memo: Etapas realizadas
+## :heavy_check_mark: Etapas realizadas
 
 Acabei upando um "projeto limpo" aqui no github, mas os commits realizados durante a realização do projeto ocorreram após cada etapa descrita:
 
@@ -79,6 +78,10 @@ Acabei upando um "projeto limpo" aqui no github, mas os commits realizados duran
 - .
 - [x] Generalização das funções sobre distâncias e sobre ângulos.
 - [x] Projeto entregue.
+
+## :thinking: Oportunidades de melhorias:
+
+Podemos realizar as seguintes melhorias no projeto:
 
 
 ## :ramen: Licença
