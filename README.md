@@ -43,8 +43,27 @@ Legendas:
 20. Pessoa está deitada.
 
 
+## :computer: Como rodar o projeto?
 
-## :memo: Planejamento
+Você pode rodar o projeto através dos passos 1 -> 2 -> 3 ou 1 -> 2 -> 4 -> 5.
+
+1. Você precisará do arquivo main.py e do diretório moves que contém os arquivos moves.py e __init__.py.
+2. Você precisa ter o Python instalado na sua máquina e, se possível, criar um ambiente virtual para rodar o projeto.
+
+Ainda, se você quiser instalar os pacotes necessários através do requirements.txt, você precisará do arquivo requirements.txt e rodar
+
+3. > pip install -r requirements.txt
+
+Você também pode instalar os pacotes através do pip, rodando:
+
+4. > pip install opencv-python
+
+e
+
+5. > pip install mediapipe
+
+
+## :memo: Commits não realizados durante o andamento do projeto
 
 
 ## :ramen: Licença
