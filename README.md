@@ -9,7 +9,7 @@
 
 
 ## :speech_balloon: Movimentos/Posições detectadas
-Alguns projetos que já fiz com as tecnologias acima e com os dados disponíveis no [Inside Airbnbn](http://insideairbnb.com/get-the-data/) possuíam como objetivo:
+
 
 1. "Rosca direta" com o braço esquerdo - como na academia, treinando biceps.
 2. "Rosca direta" com o braço direito - como na academia, treinando biceps.
