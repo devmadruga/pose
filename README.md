@@ -6,10 +6,22 @@
 
 
 ## :hammer: Tecnologias utilizadas
+As seguinte tecnologias são utilizadas neste projeto:
+
+1. Python
+2. OpenCV
+3. MediaPipe 
 
 
-## :speech_balloon: Movimentos/Posições detectadas
+## :woman_cartwheeling: Movimentos/Posições detectadas
 
+As posições detectadas encontram-se aqui:
+
+<p align="center">
+ <img src="https://github.com/devmadruga/pose/blob/main/movimentos.jpg" height="450"/>
+</p>
+
+Legendas:
 
 1. "Rosca direta" com o braço esquerdo - como na academia, treinando biceps.
 2. "Rosca direta" com o braço direito - como na academia, treinando biceps.
