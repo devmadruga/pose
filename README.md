@@ -1,8 +1,6 @@
-# Mediapipe
-
+# Reconhecimento de Ação em Vídeo
 
 ## :open_book: Índice
-
 
 
 ## :hammer: Tecnologias utilizadas
