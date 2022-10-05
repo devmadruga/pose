@@ -79,9 +79,13 @@ Acabei upando um "projeto limpo" aqui no github, mas os commits realizados duran
 - [x] Generalização das funções sobre distâncias e sobre ângulos.
 - [x] Projeto entregue.
 
-## :thinking: Oportunidades de melhorias:
+## :thinking: Algumas reflexões:
 
 Podemos realizar as seguintes melhorias no projeto:
+
+1. Métodos "update" só rodarem quando todas as landmarks envolvidas no movimento forem detectadas.
+2. Dar preferência por analisar inclinações ao invés de distâncias.
+3. Ao invés de contagens, utilizar booleanos. Está com as mãos encostadas? True of False.
 
 
 ## :ramen: Licença
