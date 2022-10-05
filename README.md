@@ -63,7 +63,22 @@ e
 5. > pip install mediapipe
 
 
-## :memo: Commits não realizados durante o andamento do projeto
+## :memo: Etapas realizadas
+
+Acabei upando um "projeto limpo" aqui no github, mas os commits realizados durante a realização do projeto ocorreram após cada etapa descrita:
+
+
+- [X] Criadas e testadas as primeiras duas ou três funções que detectavam movimento.
+- [X] Detecção implementada no código e layout ajustado para mostrar todos os contadores na tela.
+- [X] Pensando em Classes - funções antes criadas, agora se tornaram métodos de classes específicas para cada tipo de movimento.
+- [X] Detecção criar, implementada, testada e layout ajustado.
+- [X] Criação, implementação e teste de nova Classe para detectar outro tipo de movimento.
+- [X] Criação, implementação e teste de nova Classe para detectar outro tipo de movimento.
+- .
+- .
+- .
+- [x] Generalização das funções sobre distâncias e sobre ângulos.
+- [x] Projeto entregue.
 
 
 ## :ramen: Licença
