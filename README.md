@@ -12,7 +12,7 @@ As seguinte tecnologias são utilizadas neste projeto:
 
 ## :woman_cartwheeling: Movimentos/Posições detectadas
 
-As posições detectadas encontram-se aqui:
+O projeto aqui compartilhado é capaz de detecar as seguintes posições:
 
 <p align="center">
  <img src="https://github.com/devmadruga/pose/blob/main/movimentos.jpg" height="450"/>
